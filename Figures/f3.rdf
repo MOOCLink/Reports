@@ -1,0 +1,24 @@
+<rdf:RDF xmlns="http://sebk.me/MOOC.owl#"
+     xml:base="http://sebk.me/MOOC.owl"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:schema="http://schema.org"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+     
+<rdf:Description rdf:about="http://sebk.me/MOOC.owl#coursera_course_83">
+    <Course_Format>The class consists of lecture videos, 8 - 15 minutes in length. These contain 2-3 integrated quiz questions per video. There are standalone quizzes each week.  Total lecture time is ~ 14 hours.&lt;br&gt;</Course_Format>
+    <Course_ID>83</Course_ID>
+    <hasSession>http://sebk.me/MOOC.owl#coursera_session_410</hasSession>
+    <rdf:type rdf:resource="http://sebk.me/MOOC.owl#Course"/>
+    <hasCategory>http://sebk.me/MOOC.owl#category_10</hasCategory>
+    <schema:name>Drugs and the Brain</schema:name>
+    <isTaughtBy>http://sebk.me/MOOC.owl#coursera_instructor_640696</isTaughtBy>
+    <schema:timeRequired>4-6 hours/week</schema:timeRequired>
+    <schema:inLanguage>en</schema:inLanguage>
+    <hasSession>http://sebk.me/MOOC.owl#coursera_session_971466</hasSession>
+    <Recommended_Background>Neuroscience, the most interdisciplinary science of the 21st century, receives inputs from many other fields of science, medicine, clinical practice, and technology. Previous exposure to one or more of the subjects listed in "Suggested Readings" will provide a good vantage point, as we introduce material from these subjects.</Recommended_Background>
+    <hasCategory>http://sebk.me/MOOC.owl#category_3</hasCategory>
+    <schema:about>What happens in the body when a person smokes a cigarette? After several weeks of smoking? When a person takes antidepressant or antipsychotic medication? A drug for pain, migraine, or epilepsy? A recreational drug? Neuroscientists are beginning to understand these processes. You’ll learn how drugs enter the brain, how they act on receptors and ion channels, and how “molecular relay races” lead to changes in nerve cells and neural circuits that far outlast the drugs themselves. “Drugs and the Brain” also describes how scientists are gathering the knowledge required for the next steps in preventing or alleviating Parkinson’s, Alzheimer’s, schizophrenia, and drug abuse.</schema:about>
+</rdf:Description>
+

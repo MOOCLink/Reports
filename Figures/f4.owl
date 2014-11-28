@@ -1,0 +1,15 @@
+<rdf:Description rdf:about="http://sebk.me/MOOC.owl#edx_course_OEE101x">
+    <schema:name>Our Energetic Earth</schema:name>
+    <schema:video>http://www.youtube.com/v/lQc13b-g2io?version=3&amp;amp;autohide=1</schema:video>
+    <schema:inLanguage>English</schema:inLanguage>
+    <hasSession>http://sebk.me/MOOC.owl#edx_session_OEE101x</hasSession>
+    <isTaughtBy>http://sebk.me/MOOC.owl#edx_instructor_OEE101x</isTaughtBy>
+    <schema:timeRequired>2-3 hours per week (6 weeks)</schema:timeRequired>
+    <hasCategory>http://sebk.me/MOOC.owl#category_308</hasCategory>
+    <Course_ID>OEE101x</Course_ID>
+    <Recommended_Background>None.</Recommended_Background>
+    <schema:about>&lt;span itemprop="description"&gt;&lt;h4&gt;
+    *Note - This is an Archived course*&lt;/h4&gt;
+&lt;p&gt;&lt;span&gt;This is a past/archived course. At this time, you can only explore this course in a self-paced fashion. Certain features of this course may not be active...</schema:about>
+    <rdf:type rdf:resource="http://sebk.me/MOOC.owl#Course"/>
+</rdf:Description>

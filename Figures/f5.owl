@@ -1,0 +1,19 @@
+<rdf:Description rdf:about="http://sebk.me/MOOC.owl#udacity_course_cs259">
+    <Recommended_Background>&lt;p&gt;Basic knowledge of programming and Python at the level of Udacity CS101 or better is required. Basic understanding of Object-oriented programming is helpful.&lt;/p&gt;</Recommended_Background>
+    <hasCategory>http://sebk.me/MOOC.owl#category_12</hasCategory>
+    <hasSession>http://sebk.me/MOOC.owl#udacity_session_cs259</hasSession>
+    <schema:name>Software_Debugging</schema:name>
+    <Course_ID>cs259</Course_ID>
+    <rdf:type rdf:resource="http://sebk.me/MOOC.owl#Course"/>
+    <schema:inLanguage>English</schema:inLanguage>
+    <schema:timeRequired>Assumes 6hr/wk</schema:timeRequired>
+    <schema:about>&lt;div&gt;&#xD;
+&lt;p&gt;In this class you will learn how to debug programs systematically, how to automate the debugging process and build several automated debugging tools in Python.&lt;/p&gt;&#xD;
+&lt;/div&gt;&lt;strong&gt;Why Take This Course?&lt;/strong&gt;&lt;div&gt;&#xD;
+&lt;p&gt;At the end of this course you will have a solid understanding about systematic debugging, will know how to automate debugging and will have built several functional debugging tools in Python.&lt;/p&gt;&#xD;
+&lt;/div&gt;&lt;strong&gt;Prerequisites and Requirements&lt;/strong&gt;&lt;div&gt;&#xD;
+&lt;p&gt;Basic knowledge of programming and Python at the level of Udacity CS101 or better is required. Basic understanding of Object-oriented programming is helpful.&lt;/p&gt;&#xD;
+&lt;/div&gt;&lt;p&gt;See the &lt;a href="https://www.udacity.com/tech-requirements" target="_blank"&gt;Technology Requirements&lt;/a&gt; for using Udacity&lt;/p&gt;</schema:about>
+    <schema:video>http://www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ</schema:video>
+    <isTaughtBy>http://sebk.me/MOOC.owl#udacity_instructor_cs259</isTaughtBy>
+</rdf:Description>
